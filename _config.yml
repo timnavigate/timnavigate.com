@@ -3,7 +3,6 @@ author: "Timur Timoshenko"
 name: timnavigate
 email: "timnavigate@gmail.com"
 description: "Software Engineer"
-#baseurl: ""
 url: "https://timnavigate.com"
 avatar: https://raw.githubusercontent.com/timnavigate/timnavigate.github.io/master/images/timnavigate-logo.png
 copyright: "(c) timnavigate, 2024"
@@ -17,20 +16,41 @@ footer-links:
   twitter: timnavigate
   telegram: timnavigate
 
+encoding: "utf-8"
 markdown: kramdown
-theme: minima
+highlighter: rouge
+#theme: minima
+
+#liquid:
+#  error_mode: warn
 
 sass:
   style: :compressed
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
+#webrick:
+#  headers:
+#    My-Header: My-Value
+#    My-Other-Header: My-Other-Value
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-  
+#plugins:
+#  - jekyll-sitemap
+#  - jekyll-feed
+plugins: ["jekyll-sitemap", "jekyll-feed"]
+
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
+include             : [".htaccess"]
+exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+keep_files          : [".git", ".svn"]
+
+#port: 4000
+#host: 127.0.0.1
+baseurl: ""
+
+permalink: date
+#paginate_path: /page:num
+#timezone: null
+
+kramdown:
+  input: GFM
