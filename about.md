@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-An Software Engineer focused on web-based software, apis and services.
+An Software Engineer focused on development of web-based software and services.
 
 <!--  ### More Information
 
