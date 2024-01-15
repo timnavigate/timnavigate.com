@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Software Engineer
+An Software Engineer focused on web-based software, apis and services.
 
-### More Information
+<!--  ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A place to include any other types of information that you'd like to include about yourself.  -->
 
-### Contact me
+<!--  ### Contact me
 
-[timnavigate@gmail.com](mailto:timnavigate@gmail.com)
+[timnavigate@gmail.com](mailto:timnavigate@gmail.com)  -->
