@@ -13,7 +13,7 @@ URL for drafts and A/B testing is [timnavigate.github.io](https://timnavigate.gi
 <!-- [gem]() 3.5.4 -->
 <!-- [bundler](https://bundler.io/) 2.5.4 -->
 
-##### shell:
+##### bash:
 
 ```bash
 $ jekyll build
