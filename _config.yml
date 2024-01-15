@@ -1,8 +1,9 @@
 title: "timnavigate - Software Engineer"
 author: "Timur Timoshenko"
 name: timnavigate
-email: timnavigate@gmail.com
-description: Software Engineer
+email: "timnavigate@gmail.com"
+description: "Software Engineer"
+#baseurl: ""
 url: "https://timnavigate.com"
 avatar: https://raw.githubusercontent.com/timnavigate/timnavigate.github.io/master/images/timnavigate-logo.png
 copyright: "(c) timnavigate, 2024"
@@ -13,17 +14,11 @@ footer-links:
   linkedin: timnavigate
   stackoverflow: "users/5113963/timnavigate"
   #youtube: "@timnavigate"
+  twitter: timnavigate
   telegram: timnavigate
 
-permalink: /:title/
-
-version: v1.2.0
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: 'highlight'
+markdown: kramdown
+theme: minima
 
 sass:
   style: :compressed
