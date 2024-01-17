@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm Timur Timoshenko, a software engineer focused on development of web-based software and services.
+I'm Timur Timoshenko, a software engineer focused on development web-based software and services.
