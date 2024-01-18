@@ -16,5 +16,4 @@ I am currently available to take on some work.
 This is often development work, sometimes refactoring work, and occasionally analytics or design work. 
 My specialties are business application programming, but I have a wide variety of experience including desktop, corporate services, processing systems, web APIs, and cloud-native applications. 
 
-If You are interested in invitation me to have a discussion about a job,<br/> 
-please contact me via: [linkedin](https://linkedin.com/in/timnavigate), [hh.ru](https://hh.ru/resume/6ecf838dff00cf86c60039ed1f336243635742) or [telegram](https://t.me/timnavigate)
+If You are interested in invitation me to have a discussion about a job, please contact me via: [linkedin](https://linkedin.com/in/timnavigate), [hh.ru](https://hh.ru/resume/6ecf838dff00cf86c60039ed1f336243635742) or [telegram](https://t.me/timnavigate)
