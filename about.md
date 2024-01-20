@@ -12,7 +12,7 @@ Mostly I use [dotnet](https://dotnet.microsoft.com/en-us/apps/aspnet), various t
 Currently I'm living in {{ site.location }}.<br/>
 You can reach out to me using my email: [timnavigate@gmail.com]("mailto:timnavigate@gmail.com")
 
-I am currently available to take on some work.
+Now I'm ready to take on contract work.
 This is often development work, sometimes refactoring work, and occasionally analytics or design work. 
 My specialties are business application programming, but I have a wide variety of experience including desktop, corporate services, processing systems, web APIs, and cloud-native applications. 
 
