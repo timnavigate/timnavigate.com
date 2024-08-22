@@ -11,12 +11,13 @@ I will try to describe my experience in the form of a timeline, along which I fa
 
 To begin, for this first post, cumulatively, my experiences can be summarized as a pipeline:
 - 2004&ndash;2010: web development
-    - 2010&ndash;2011: media design
-        - 2011&ndash;2016: enterprise business development
-            - 2016&ndash;2022: banking and non-bank processing systems
-                - 2020&ndash;2022: analytics, refactoring and re-engineering
-                    - 2022&ndash;2023: cloud product development
-                        - 2023&ndash;present: infrastructure duplex api development
+- 2010&ndash;2011: media design
+- 2011&ndash;2016: enterprise business development
+- 2016&ndash;2022: banking and non-bank processing systems
+- 2020&ndash;2022: analytics, refactoring and re-engineering
+- 2022&ndash;2023: cloud product development
+- 2023&ndash;2023: infrastructure duplex api development
+- 2024&ndash;2024: year of system analysis, architectural conceptual design and full cycle development
 
 Ok. I think that's enough for now 😏 <br/>
 After all, I've started working on my writing muscle. 💪🏼
