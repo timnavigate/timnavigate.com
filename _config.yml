@@ -1,21 +1,21 @@
-title: "timnavigate - Software Engineer"
+title: "timnavigate - System Analyst and Software Development Engineer"
 author: "Timur Timoshenko"
 name: timnavigate
 email: "timnavigate@gmail.com"
-description: "Software Engineer"
+description: "System Analyst and Software Development Engineer"
 location: "Moscow"
 url: "https://timnavigate.com"
 avatar: https://raw.githubusercontent.com/timnavigate/timnavigate.github.io/master/images/timnavigate-logo.png
-copyright: "(c) timnavigate, 2024"
+copyright: "(c) timnavigate, 2026"
 google_analytics: "G-RRV4JHMNFS"
 
 footer-links:
-  email: timnavigate@gmail.com
-  github: timnavigate
+  #github: timnavigate
   linkedin: timnavigate
-  stackoverflow: "users/5113963/timnavigate"
+  email: timnavigate@gmail.com
+  #stackoverflow: "users/5113963/timnavigate"
   #youtube: "@timnavigate"
-  twitter: timnavigate
+  #twitter: timnavigate
   telegram: timnavigate
 
 encoding: "utf-8"
