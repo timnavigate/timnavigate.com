@@ -2,7 +2,7 @@
 layout: post
 title:  "First Post"
 permalink: /first-post/
-tags: First Post
+tags: first post
 ---
 
 This post is just to sketch out a rough list of topics I'm interested in and would like to write something about. For example, let's imagine that the total work experience is first of all events and people, and then technology.
