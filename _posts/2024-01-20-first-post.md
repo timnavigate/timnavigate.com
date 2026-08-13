@@ -23,28 +23,21 @@ Ok. I think that's enough for now😏 After all, I've started working on my writ
 
 As they say, farther means more.
 
----
-test of html
-
-<div> this is div </div>
-
----
 <pre class="mermaid">
 gantt
 
-	dateformat YYYY-MM-DD
+    dateformat YYYY-MM-DD
     axisFormat %m.%Y
-    tickInterval 12month
+    tickInterval 2year
 
-	Web Development :done, 2004-01-01, 2010-12-31
-	Media Design :done, 2010-01-01, 2011-12-31
-	Enterprise Business Development :done, 2011-01-01, 2016-12-31
-
-	Banking and Non-Bank Processing Systems :done, 2016-01-01, 2022-12-31
-	Analytics, Refactoring and Re-Engineering :done, 2020-01-01, 2022-12-31
-	SaaS Product Development :done, 2022-01-01, 2023-12-31
-	EV API :done, 2023-01-01, 2023-12-31
-	System Analysis and Development :current, 2024-01-01, 2026-12-31
+    Web Development :done, 2004-01-01, 2010-12-31
+    Media Design :done, 2010-01-01, 2011-12-31
+    Enterprise Business Development :done, 2011-01-01, 2016-12-31
+    Banking and Non-Bank Processing Systems :done, 2016-01-01, 2022-12-31
+    Analytics, Refactoring and Re-Engineering :done, 2020-01-01, 2022-12-31
+    SaaS Product Development :done, 2022-01-01, 2023-12-31
+    EV API :done, 2023-01-01, 2023-12-31
+    System Analysis and Development :current, 2024-01-01, 2026-12-31
     year of Solution Architecture :crit, 2026-06-31, 800d
 
 </pre>
