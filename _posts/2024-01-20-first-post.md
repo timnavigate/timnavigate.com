@@ -31,31 +31,20 @@ test of html
 ---
 <pre class="mermaid">
 gantt
-    dateFormat  YYYY-MM-DD
-    title       Adding GANTT diagram functionality to mermaid
-    
-    section A section
-    Completed task            :done,    des1, 2014-01-06,2014-01-08
-    Active task               :active,  des2, 2014-01-09, 3d
-    Future task               :         des3, after des2, 5d
-    Future task2              :         des4, after des3, 5d
 
-    section Critical tasks
-    Completed task in the critical line :crit, done, 2014-01-06,24h
-    Implement parser and jison          :crit, done, after des1, 2d
-    Create tests for parser             :crit, active, 3d
-    Future task in critical line        :crit, 5d
-    Create tests for renderer           :2d
-    Add to mermaid                      :until isadded
-    Functionality added                 :milestone, isadded, 2014-01-25, 0d
+	dateformat YYYY-MM-DD
+    axisFormat %m.%Y
+    tickInterval 12month
 
-    section Documentation
-    Describe gantt syntax               :active, a1, after des1, 3d
-    Add gantt diagram to demo page      :after a1  , 20h
-    Add another diagram to demo page    :doc1, after a1  , 48h
+	Web Development :done, 2004-01-01, 2010-12-31
+	Media Design :done, 2010-01-01, 2011-12-31
+	Enterprise Business Development :done, 2011-01-01, 2016-12-31
 
-    section Last section
-    Describe gantt syntax               :after doc1, 3d
-    Add gantt diagram to demo page      :20h
-    Add another diagram to demo page    :48h
+	Banking and Non-Bank Processing Systems :done, 2016-01-01, 2022-12-31
+	Analytics, Refactoring and Re-Engineering :done, 2020-01-01, 2022-12-31
+	SaaS Product Development :done, 2022-01-01, 2023-12-31
+	EV API :done, 2023-01-01, 2023-12-31
+	System Analysis and Development :current, 2024-01-01, 2026-12-31
+    year of Solution Architecture :crit, 2026-06-31, 800d
+
 </pre>
