@@ -3,7 +3,6 @@ layout: page
 title: 
 permalink: /about/
 ---
-
 Hi there! 👋
 
 I'm {{ site.author }}, a {{ site.description }} focused on development web-based services and business software applications.
@@ -17,7 +16,6 @@ Currently I'm living in {{ site.location }}.
 
 If You are interested in invitation me to have a discussion about a job, please contact me via: 
 - [linkedin](https://linkedin.com/in/timnavigate)
-- [hh.ru](https://hh.ru/resume/6ecf838dff00cf86c60039ed1f336243635742)
 - [telegram](https://t.me/timnavigate)
 
 You can reach out to me also using my email: [timnavigate@gmail.com]("mailto:timnavigate@gmail.com")
