@@ -14,8 +14,8 @@ My specialties are business application programming, but I have a wide variety o
 
 Currently I'm living in {{ site.location }}.
 
-If You are interested in invitation me to have a discussion about a job, please contact me via: 
-- [linkedin](https://linkedin.com/in/timnavigate)
+If You are interested in invitation me to have a discussion about a job proposal, you can reach me out via: 
 - [telegram](https://t.me/timnavigate)
+- [linkedin](https://linkedin.com/in/timnavigate)
 
-You can reach out to me also using my email: [timnavigate@gmail.com]("mailto:timnavigate@gmail.com")
+You can contact to me also using my email: [timnavigate@gmail.com]("mailto:timnavigate@gmail.com")
