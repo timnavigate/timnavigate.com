@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hi there! 👋
 
-I'm {{ site.author }}, a {{ site.description }} focused on development web-based services and business software applications.
+I'm {{ site.author }}, aka {{ site.title }} focused on development web-based services and business software applications.
 
 Mostly I use [dotnet](https://dotnet.microsoft.com/en-us/apps/aspnet), various types of `databases`, `windows`/`linux` environments and set of tools and cli utilities.
 
