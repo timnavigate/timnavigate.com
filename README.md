@@ -2,7 +2,7 @@
 
 This repository contains the sources of [www.timnavigate.com](https://www.timnavigate.com)
 
-When `CNAME` and `A` DNS records has been excluded from domain registry, then URL for drafts and A/B testing is [timnavigate.github.io](https://timnavigate.github.io)
+If `CNAME` and `A` DNS records are excluded from domain registry, then URL for drafts and A/B testing is [timnavigate.github.io](https://timnavigate.github.io)
 
 ##### local dependencies:
 - gem 3.5.4
