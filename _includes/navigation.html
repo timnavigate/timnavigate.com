@@ -1,5 +1,14 @@
-<nav>
+<!--<nav>
                 <a href="{{ site.baseurl }}/">blog</a>
                 <a href="{{ site.baseurl }}/about">about</a>
                 <a href="{{ site.baseurl }}/cv">cv</a>
-            </nav>
+                <a href="{{ site.baseurl }}/staff">staff</a>
+            </nav>-->
+
+<nav>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
+</nav>

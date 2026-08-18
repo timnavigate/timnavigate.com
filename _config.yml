@@ -37,7 +37,10 @@ sass:
 #plugins:
 #  - jekyll-sitemap
 #  - jekyll-feed
-plugins: ["jekyll-sitemap", "jekyll-feed"]
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
 
 #exclude:
 #  - Gemfile
@@ -56,3 +59,23 @@ permalink: date
 
 kramdown:
   input: GFM
+
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
