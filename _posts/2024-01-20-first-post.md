@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "First Post"
+author: tim
+title:  First Post
 permalink: /first-post/
 tags: first post
 ---

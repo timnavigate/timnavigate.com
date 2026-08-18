@@ -1,0 +1,10 @@
+- name: blog
+  link: /
+- name: about
+  link: /about/
+- name: cv
+  link: /cv/
+- name: staff
+  link: /staff/
+- name: blog
+  link: /blog/
