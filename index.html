@@ -8,7 +8,8 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <div class="date">
-        written on {{ post.date | date: "%B %e, %Y" }}
+        <!-- written on {{ post.date | date: "%B %e, %Y" }} --> <!-- commented by issues #33 -->
+        {{ post.date: "%e %B %Y"}}
       </div>
       <br/>
 
