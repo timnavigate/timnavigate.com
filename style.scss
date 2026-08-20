@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
   display: flex;
@@ -75,7 +75,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -155,7 +155,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  /*margin-bottom: 50px;*/  /*commented by issue #30*/
 }
 
 .masthead {
@@ -291,7 +291,6 @@ footer {
 .copyright {
   padding-bottom: 10px;
   text-align: center;
-  
   font-size: 12px;
   color: $gray;
 }
